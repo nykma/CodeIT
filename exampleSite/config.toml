@@ -838,6 +838,7 @@ ignoreErrors = ["error-remote-getjson"]
         colorful = true
         dislikes = false
         outlined = false
+        dark = false
       # Commento comment config (https://commento.io/)
       [params.page.comment.commento]
         enable = false

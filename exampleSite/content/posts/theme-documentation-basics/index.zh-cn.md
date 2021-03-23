@@ -548,6 +548,7 @@ hugo
         colorful = true
         dislikes = false
         outlined = false
+        dark = false
       # {{< link "https://commento.io/" "Commento" >}} 评论系统设置
       [params.page.comment.commento]
         enable = false
